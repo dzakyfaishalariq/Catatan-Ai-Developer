@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "catatanPython/Library Python.md",
+                "file": "Mesin Learning/Pipline.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "catatanPython/Library Python.md",
+                "file": "Mesin Learning/Pipline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "catatanPython/Library Python.md",
+                "file": "Mesin Learning/Pipline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "catatanPython/Library Python.md"
+                "file": "Mesin Learning/Pipline.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "0665cd1de3606085",
   "lastOpenFiles": [
-    "Mesin Learning/Pipline.md",
     "catatanPython/Library Python.md",
+    "Mesin Learning/Pipline.md",
     "Mesin Learning/Model Model dalam mesin learning.md",
     "Mesin Learning/Preprosesing Data.md",
     "Tanpa judul",

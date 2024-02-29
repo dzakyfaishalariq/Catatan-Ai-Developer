@@ -1,3 +1,5 @@
+# Catatan Pipline Python [reverensi](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+
 Penggunaan Papilne berugan untuk mempersingkat dan memudahkan mendevelob sebuah preprosesing hingga ke dalam training dalam mesing learning.
 
 berikut contoh code nya:
