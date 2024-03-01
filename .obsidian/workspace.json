@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11901509c8a2e15a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mesin Learning/Preprosesing Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0665cd1de3606085",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "75c9e6165c5bfbc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mesin Learning/Pipline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Pipline",
+                "query": "tag:#mesin_learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,9 +148,9 @@
   },
   "active": "0665cd1de3606085",
   "lastOpenFiles": [
+    "Mesin Learning/Model Model dalam mesin learning.md",
     "catatanPython/Library Python.md",
     "Mesin Learning/Pipline.md",
-    "Mesin Learning/Model Model dalam mesin learning.md",
     "Mesin Learning/Preprosesing Data.md",
     "Tanpa judul",
     "catatanPython",

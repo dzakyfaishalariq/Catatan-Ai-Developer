@@ -39,3 +39,4 @@ my_pipeline = Pipeline(steps=[('preprocessor', preprocessor),
 # lakukan fit atau pembelajaran
 my_pipeline.fit(X_train, y_train)```
 
+#mesin_learning #kecerdasan_buatan

@@ -65,3 +65,5 @@ OH_cols_valid = pd.DataFrame(OH_encoder.transform(X_valid[object_cols]))
 ```
 
 [[Pipline]]
+
+#kecerdasan_buatan #mesin_learning 
